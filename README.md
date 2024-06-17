@@ -1,6 +1,6 @@
 # Bookmarks-in-rofi
 Simple bookmarking in rofi launcher (dmenu style)
-Put this folder into .config and feel free to bind the scripts however you like.
+Put this folder into .config and look into dmenu.txt.
 
 # Scripts
 bookmark_search - stands for launcher which provides you with list of bookmarks that are in bookmarks.txt file (needs binding)
